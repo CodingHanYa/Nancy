@@ -1,1 +1,0 @@
-/usr/bin/c++  -O3 -DNDEBUG -UNDEBUG   CMakeFiles/test_memory.dir/test_memory.cc.o  -o test_memory 

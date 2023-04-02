@@ -1,1 +1,0 @@
-/usr/bin/c++  -O3 -DNDEBUG -UNDEBUG   CMakeFiles/test_timer.dir/test_timer.cc.o  -o test_timer 
