@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLIB_NET.a  CMakeFiles/LIB_NET.dir/src/net/signal.cc.o
+/usr/bin/ranlib libLIB_NET.a

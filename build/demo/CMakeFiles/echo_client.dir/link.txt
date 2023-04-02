@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG -UNDEBUG   CMakeFiles/echo_client.dir/echo/client.cc.o  -o echo_client  -lpthread 

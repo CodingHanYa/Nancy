@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG -UNDEBUG   CMakeFiles/test_log.dir/test_log.cc.o  -o test_log  -lpthread 

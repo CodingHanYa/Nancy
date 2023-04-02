@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG -UNDEBUG   CMakeFiles/echo_server.dir/echo/server.cc.o  -o echo_server  -lpthread 

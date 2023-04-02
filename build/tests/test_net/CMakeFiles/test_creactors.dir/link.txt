@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG -UNDEBUG   CMakeFiles/test_creactors.dir/test_creactors.cc.o  -o test_creactors  -lpthread 
