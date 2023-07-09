@@ -6,7 +6,8 @@
 #include <thread>
 #include <condition_variable>
 
-namespace fnet::details {
+namespace fnet {
+namespace details {
 
 template <class T>
 struct duration {
@@ -16,8 +17,8 @@ template <>
 struct duration<void> {
     typedef std::chrono::duration<uint64_t> type;
 };
-
-} // fnet::details
+}   // details 
+}   // fnet
 
 namespace fnet {
 
